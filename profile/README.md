@@ -1,0 +1,1 @@
+![Albedo](../image/ALBEDO-BAR.png)

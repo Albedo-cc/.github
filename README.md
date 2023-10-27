@@ -1,3 +1,1 @@
-# Albedo
-## Hello World
-- Testing.
+GitHub default README
